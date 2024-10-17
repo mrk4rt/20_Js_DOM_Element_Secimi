@@ -1,2 +1,0 @@
-# 20_Js_DOM_Element_Secimi
-20_Js_DOM_Element_Secimi
